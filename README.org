@@ -2,6 +2,6 @@
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/gpcz/pro-lisp-critic.git |
-| commit  | 2ec87c9                                         |
+| commit  | 36126f7                                         |
 | systems | pro-lisp-critic                                 |
 |---------+-------------------------------------------------|
